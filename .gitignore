@@ -1,0 +1,3 @@
+data_inside_container/images/*
+!data_inside_container/images/.gitkeep
+kalibr/
