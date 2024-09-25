@@ -10,6 +10,10 @@ Display `april_6x6_80x80cm_A0.pdf`
 
 Adjust details the display of `data_inside_container/april_6x6_80x80cm.yaml`.
 
+![alt text](assets/what_to_measure.png)
+![alt text](assets/spacing.png)
+![alt text](assets/measuring.png)
+
 The values you should put there are literal physical measurements you take from your screen while displaying the pdf.
 
 ### Step 2: Collect images
@@ -26,6 +30,10 @@ Point your camera towards the board and take pictures:
 - zoom in and out
 - get weird angles from the board
 - do a close up to get the distortions that happen for things too close to camera
+
+*CLICK THE VIDEO TO SEE WHAT IT LOOKS LIKE*
+[![How to Collect Images](https://img.youtube.com/vi/R_K9-O4ool8/0.jpg)](https://www.youtube.com/watch?v=R_K9-O4ool8)
+
 
 Press 'esc' to end
 
