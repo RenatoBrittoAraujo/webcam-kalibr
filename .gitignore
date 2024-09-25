@@ -1,3 +1,7 @@
 data_inside_container/images/*
 !data_inside_container/images/.gitkeep
 kalibr/
+data_inside_container/calibration.bag
+data_inside_container/calibration.bag
+data_inside_container/calibration-camchain.yaml
+data_inside_container/calibration-results-cam.txt
